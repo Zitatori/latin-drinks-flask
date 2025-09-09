@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="row align-items-center">
+  <div class="col-md-6">
+    <h1 class="display-6 mb-3">Hoy la bebida</h1>
+    <h2 class="h3">{{ drink.name_es }}</h2>
+    <p class="text-muted">{{ drink.origin_country }} · {{ drink.category }}</p>
+    <p>{{ drink.fun_fact_es }}</p>
+    <a class="btn btn-primary" href="/drink/{{ drink.id }}">Ver detalles</a>
+    <a class="btn btn-outline-secondary" href="/drinks">Explorar todas</a>
+  </div>
+  <div class="col-md-6">
+    <img class="img-fluid rounded shadow" src="{{ drink.image_url }}" alt="{{ drink.name_es }}">
+  </div>
+</div>
+{% endblock %}

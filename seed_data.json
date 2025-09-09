@@ -1,0 +1,74 @@
+[
+  {
+    "id": "mate",
+    "name_es": "Mate",
+    "name_en": "Mate tea",
+    "origin_country": "Argentina / Uruguay / Paraguay",
+    "category": "tradition",
+    "abv": null,
+    "serve_temp": "caliente o frío (tereré)",
+    "scene": "asado, charla entre amigos",
+    "fun_fact_es": "Se bebe con bombilla; el tereré es la versión fría popular en Paraguay.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Mate_Argentina.jpg"
+  },
+  {
+    "id": "tequila",
+    "name_es": "Tequila",
+    "name_en": "Tequila",
+    "origin_country": "México",
+    "category": "alcohol",
+    "abv": 38.0,
+    "serve_temp": "temperatura ambiente o cócteles",
+    "scene": "fiesta, brindis",
+    "fun_fact_es": "Destilado del agave azul; DO de Tequila, Jalisco.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Tequila_shot.jpg"
+  },
+  {
+    "id": "cafe_colombia",
+    "name_es": "Café de Colombia",
+    "name_en": "Colombian coffee",
+    "origin_country": "Colombia",
+    "category": "coffee",
+    "abv": null,
+    "serve_temp": "caliente",
+    "scene": "desayuno, sobremesa",
+    "fun_fact_es": "Reconocido por su altitud y proceso lavado.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
+  },
+  {
+    "id": "horchata",
+    "name_es": "Horchata",
+    "name_en": "Horchata",
+    "origin_country": "España / México",
+    "category": "tradition",
+    "abv": null,
+    "serve_temp": "fría",
+    "scene": "verano, merienda",
+    "fun_fact_es": "España: chufa; México: arroz con canela.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Horchata_de_chufa.jpg"
+  },
+  {
+    "id": "pisco",
+    "name_es": "Pisco",
+    "name_en": "Pisco",
+    "origin_country": "Perú / Chile",
+    "category": "alcohol",
+    "abv": 38.0,
+    "serve_temp": "cócteles (pisco sour)",
+    "scene": "celebraciones",
+    "fun_fact_es": "Aguardiente de uva; disputa de origen entre Perú y Chile.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Pisco_sour_peruano.jpg"
+  },
+  {
+    "id": "mojito",
+    "name_es": "Mojito",
+    "name_en": "Mojito",
+    "origin_country": "Cuba",
+    "category": "alcohol",
+    "abv": 13.0,
+    "serve_temp": "fría",
+    "scene": "bares, música",
+    "fun_fact_es": "Ron, hierbabuena, azúcar, lima y soda.",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mojito_1.jpg"
+  }
+]
