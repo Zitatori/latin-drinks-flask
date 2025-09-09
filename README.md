@@ -18,8 +18,8 @@ Puedes explorar, filtrar y añadir nuevas bebidas fácilmente desde la interfaz.
 - Bootstrap 5
 
 ## 🖼️ Capturas de pantalla
-![Pantalla principal]
-(Screen Shot 2025-09-09 at 11.17.26.png)
+![Pantalla principal](latin.png)
+
 
 
 
