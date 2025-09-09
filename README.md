@@ -28,7 +28,9 @@ pip install -r requirements.txt
 
 python app.py
 
-
+## 🖼️ Capturas de pantalla
+![Pantalla principal]
+Screen Shot 2025-09-09 at 11.17.26.png
 
 
 
