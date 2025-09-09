@@ -17,6 +17,12 @@ Puedes explorar, filtrar y añadir nuevas bebidas fácilmente desde la interfaz.
 - SQLAlchemy (SQLite)
 - Bootstrap 5
 
+## 🖼️ Capturas de pantalla
+![Pantalla principal]
+(Screen Shot 2025-09-09 at 11.17.26.png)
+
+
+
 ## 🚀 Cómo ejecutar
 ```bash
 git clone https://github.com/TU_USUARIO/latin-drinks-flask.git
@@ -28,9 +34,7 @@ pip install -r requirements.txt
 
 python app.py
 
-## 🖼️ Capturas de pantalla
-![Pantalla principal]
-Screen Shot 2025-09-09 at 11.17.26.png
+
 
 
 
